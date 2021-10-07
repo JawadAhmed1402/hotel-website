@@ -1,0 +1,202 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+    background: url("./bed.jpg");
+    
+}
+nav{
+    background: #333333;
+    height: 71px;
+    width: 100%;
+}
+label.logo{
+    color: white;
+    font-size: 25px;
+    line-height: 70px;
+    padding: 0 140px;
+}
+ nav ul{
+    float: right;
+    margin-right: 105px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 70px;
+    margin: 0 0;
+}
+nav ul li a{
+    color: white;
+    font-size: 15px;
+    padding: 27px 40px;
+    border-radius: 0px;
+    margin-right: -5px ;
+}
+a.active,a:hover{
+    background: #444444;
+    transition: .5s;
+}
+#AC-TIVE:hover{
+    color: #F7C08A; 
+}
+.F-IRST{
+    text-align: center;
+    margin-top: 175px;
+    font-size: 59px;
+}
+h1{
+    font-size: 55px;
+    color: white;
+    font-weight:700;
+}
+.EN-JOY{
+    color: #F7C08A;
+}
+p{
+    color: white;
+    font-size: 21px;
+    padding: 26px 0 14px 0;
+}
+a.ABO-UT{
+    color:white;
+    background:#333333;
+    display: inline-block;
+    block-size:50px;
+    padding: 7px 27px;
+    transition: .5s;
+    font-size:  23px;
+    line-height: 35px; 
+    font-weight:50;
+    margin-bottom: 150px;
+}
+.ABO-UT:hover{
+    color: black;
+    background: #F7C08A;
+}
+.I-MG{
+    margin-top: 100px;
+    float: left;
+}
+H2{
+    padding-top: 50px;
+    text-align: center;
+    margin-top: 50px;
+}
+.SEC-2{
+    display: block;
+    text-align: center;
+    background: #444444;
+    padding-bottom:72px ;
+}
+#Sec-2{
+    margin-top: 100px;
+}
+H2{
+    color: white;
+    font-size: 31px;
+}
+.Lor-em{
+    font-size: 20px; 
+    text-align: center; 
+}
+
+a.READ-MORE{
+    color:black;
+    background:#ffffff;
+    display: inline-block;
+    block-size:50px;
+    padding: 7px 27px;
+    transition: .3s;
+    font-size:  20px;
+    line-height: 35px; 
+    font-weight:50;
+    margin-top: 5px;
+}
+.READ-MORE:hover{
+    color: black;
+    background: #F7C08A;
+}
+.The-History{
+    color: #F7C08A;
+}
+.SEC-3{
+    display: inline-block;
+}
+.fa-hotel{  
+    padding: 110px 202px 200px 200px;
+    background: #F4F4F4;
+    inline-size: 40px 30px;
+    margin-right: -2px;
+}
+#FA-HOTEL{
+    padding-top: 30px;
+}
+.H3{
+    margin-top: -200px;
+    margin-left:140px;
+    font-size: 23px;
+}
+.P-1{
+    display: inline-block;
+    color: black;
+    font-size: 19px; 
+    text-align: center;
+    margin-left: 50px;
+    
+}
+.fa-utensils{
+    padding:30px 200px 200px 202px; 
+    background: #F7C08A;
+    block-size: 40px 30px;
+    margin-left: -2px; 
+}
+.H-3{
+    margin-top: -114px;
+    margin-left: 620px;
+    font-size: 23px;
+}
+.P-2{
+    display: inline-block;
+    color: black;
+    font-size: 19px;
+    text-align: center;
+    margin-left: 500px;
+}
+.fa-dumbbell{
+    padding: 30px 188px 200px 202px;
+    background: #F4F4F4; 
+    block-size: 40px 30px;
+    margin-left: -5px;
+}
+.h-3{
+    margin-top:-113px;
+    margin-left: 1056px;
+    font-size: 23px;
+}
+.P-3{
+    display: inline-block;
+    color: black;
+    font-size: 19px;
+    text-align: center;
+    margin-left: 950px;
+}
+.NA-V{
+    background: #333333;
+    padding-top: 170px;
+    height:71px;
+    width: 100%;
+}
+.P-4{
+    color: white;
+    font-size: 18px;
+    margin-top: -70px;
+    text-align: center;
+}
+
+
+

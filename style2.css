@@ -1,0 +1,189 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+    
+}
+nav{
+    background: #333333;
+    height: 71px;
+    width: 100%;
+}
+label.logo{
+    color: white;
+    font-size: 25px;
+    line-height: 70px;
+    padding: 0 140px;
+}
+ nav ul{
+    float: right;
+    margin-right: 105px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 70px;
+    margin: 0 0;
+}
+nav ul li a{
+    color: white;
+    font-size: 15px;
+    padding: 27px 40px;
+    border-radius: 0px;
+    margin-right: -5px ;
+}
+a.active,a:hover{
+    background: #444444;
+    transition: .5s;
+}
+#AC-TIVE:hover{
+    color: #F7C08A; 
+}
+h1{
+    font-size:40px ;
+    font-family: sans-serif;
+    margin-top: 20px;
+    margin-left: 150px;
+    color: black;
+}   
+h1 span{
+    color: #F7C08A;
+}
+p{
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    font-size: 19px;
+    margin-top: 15px;
+    margin-left: 150px;
+}
+.NAM-E{
+    font-family: sans-serif;
+    font-size: 19px;
+    margin-top: 30px;
+    margin-bottom: 5px;
+    margin-left: 150px;
+
+}
+.NA-ME{
+    font-size: 17px;
+    height: 30px;
+    margin-left: 150px;
+    padding-right: 900px;
+}
+.EMAI-L{
+    font-family: sans-serif;
+    font-size: 19px;
+    margin-bottom: 5px;
+    margin-top: 34px;
+    margin-left: 150px;
+}
+.EM-AIL{
+    font-size: 17px;
+    height: 30px;
+    margin-left: 150px;
+    padding-right: 70px;
+}
+.MES-SAGE{
+    font-family: sans-serif;
+    font-size: 19px;
+    margin-bottom: 3px;
+    margin-top: 28px;
+    margin-left: 150px;
+}
+.MESS-AGE{
+    font-size: 18px;
+    display: block;
+    height: 30px;
+    margin-left: 150px;
+    padding-top: 9px;
+    padding-right: 0px;
+    padding-bottom: 250px;
+
+}
+.SUB-MIT{
+    color: white;
+    background: #333333;
+    padding: 14px 14px 14px 14px;
+    border: 0px;
+    margin-top: 25px;
+    margin-left: 150px;
+    font-size: 17px;
+}
+.SUB-MIT:hover{
+    color: #333333;
+    background: #F7C08A;
+}
+.DIV-1{
+   background-color:#444444;
+    display:block;
+    margin-top: 100px;
+    padding-bottom: 60px; 
+    margin-bottom: 60px;
+}
+.DIV-1 i{
+    color: white;
+    margin-top: 50px;
+    margin-left:265px;
+}
+h3{
+    color: white;
+    margin-top: 16px;
+    margin-left: 252px;
+}
+.P-1{
+    color: white;
+    margin-top: 40px;
+    margin-left:195px ;
+    font-size: 16px;
+}
+.DIV-2 i{
+    color: white;
+    float: right;
+    margin-top: -61px;
+    margin-right: 600px;    
+}
+.DIV-2 h3{
+    color: white;
+    margin-left: 650px;
+    margin-top: -200px;
+}
+.DIV-2 p{
+    color: white;
+    margin-left:645px ;
+    margin-top: 38px;
+}
+
+.DIV-3 i{
+    margin-top: -140px;
+    margin-right: 200px;
+    color: white;
+    float: right; 
+}
+.DIV-3 h3{
+    color:white;
+    float: right;
+    margin-top: -81px;
+    margin-right: 165px;
+}
+.DIV-3 p{
+    float: right;
+    color: white;
+    margin-top: -24px;
+    margin-right: 140px;
+    font-size: 16px;
+}
+.NAV{
+    background-color: #333333;
+    display: inline-block;
+    margin-top: 57px;
+    padding-right: 1347px;
+    height: 71px;
+    width: 100px;
+}
+.P-5{
+    color: black;
+}
